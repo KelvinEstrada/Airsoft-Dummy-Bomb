@@ -15,3 +15,6 @@ The code provides the pins used for connections with Arduino.
 11. 9V battery
 12. Resistors
 13. PCB board
+
+# Airsoft-Dummy-Bomb Circuit Schematic
+.asc file contains circuit schematic of DBB and must opened with LTSpice program. 
